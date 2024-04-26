@@ -1,2 +1,1 @@
-# GoLang_Scrapping
-Scrapping Using GoLang
+# Scrapping Using GoLang
