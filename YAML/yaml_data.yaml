@@ -1,15 +1,6 @@
-- name: Aarav
-  age: 28
-  city: Mumbai
-- name: Aarushi
-  age: 25
-  city: Delhi
-- name: Advait
-  age: 32
+- name: Subhradeep
+  age: 100
   city: Bangalore
-- name: Amrita
-  age: 29
-  city: Hyderabad
-- name: Arjun
-  age: 35
-  city: Chennai
+- name: FakeName2
+  age: 200
+  city: FakeCity2
