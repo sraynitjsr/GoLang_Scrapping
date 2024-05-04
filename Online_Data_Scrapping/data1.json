@@ -1,1 +1,26 @@
-
+[
+    {
+        "name": "Virat Kohli",
+        "age": 39,
+        "city": "Delhi",
+        "isStudent": false,
+        "hobbies": ["cricket", "reading", "photography"],
+        "address": {
+            "street": "789 North Street",
+            "zip": "110001"
+        },
+        "languages": ["Hindi", "English"]
+    },
+    {
+        "name": "Rahul Dravid",
+        "age": 50,
+        "city": "Bangalore",
+        "isStudent": false,
+        "hobbies": ["cricket", "traveling", "engineering"],
+        "address": {
+            "street": "321 East Road",
+            "zip": "560001"
+        },
+        "languages": ["Kannada", "English", "Hindi"]
+    }
+]
